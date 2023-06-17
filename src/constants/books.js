@@ -11,7 +11,7 @@ export const booksData = [
   },
   {
     id: 2,
-    title: "Enders Game",
+    title: "IKIGAI",
     bookUrl:
       "https://m.media-amazon.com/images/I/51yvBs8kAcL._SY264_BO1,204,203,200_QL40_FMwebp_.jpg",
     author: "Scott Card",
