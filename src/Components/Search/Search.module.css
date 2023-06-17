@@ -1,0 +1,25 @@
+.container {
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.seachCont {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+}
+
+.seachCont input {
+  padding: 0.5rem;
+}
+
+.bookContainer {
+  width: 90%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+}

@@ -1,0 +1,40 @@
+.cardCont {
+  border: 1px solid;
+  width: 150px;
+  height: 300px;
+  padding: 1rem;
+  position: relative;
+}
+
+.title {
+  /* font-size: 0.7rem;
+  font-weight: 600; */
+}
+
+.cardCont img {
+  width: 100%;
+}
+
+.cardCont button {
+  position: absolute;
+  right: 10px;
+  bottom: 10px;
+}
+
+.cardCont button:hover {
+  cursor: pointer;
+}
+
+.inputCont {
+  background-color: lavenderblush;
+  position: absolute;
+  border: 1px solid;
+  display: flex;
+  flex-direction: column;
+  bottom: -20px;
+}
+
+.inputCont label {
+  display: flex;
+  font-size: 0.8rem;
+}

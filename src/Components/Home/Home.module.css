@@ -1,0 +1,19 @@
+.homeContainer {
+  width: 100%;
+  height: max-content;
+  /* background-color: sandybrown; */
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  padding: 1rem;
+}
+
+.bookCont {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+a {
+  text-decoration: none;
+}
